@@ -28,7 +28,7 @@ Designed to align with the core product needs of the team.
 ## Tech Stack
 
 - **Framework:** React
-- **Styling & UI:** Material UI (MUI)
+- **Styling & UI:** Material UI (MUI) and Tailwind CSS
 - **State Management:** React Query for efficient caching and server-state sync.
 - **Data Viz:** Recharts
 - **HTTP Client:** Axios with interceptors for Amadeus OAuth2 token management.
